@@ -1,6 +1,6 @@
 name: Settings Sync incident
 description: Incident impacting Visual Studio Code Settings Sync
-title: "[Settings Sync]: Availability degradation"
+title: "Availability degradation"
 labels: ["settings sync"]
 body:
   - type: dropdown
